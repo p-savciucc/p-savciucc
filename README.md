@@ -73,5 +73,6 @@ Ambitious **Software Engineering Student** with a strong background in developin
 - **Email:** [savciucc@icloud.com](mailto:savciucc@icloud.com)
 - **GitHub:** [github.com/p-savciucc](https://github.com/p-savciucc)
 - **LinkedIn:** [linkedin.com/in/savciucc](https://www.linkedin.com/in/savciucc)
+- **Instagram:** [instagram.com/burla_costel](https://www.instagram.com/burla_costel)
 
 > *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
