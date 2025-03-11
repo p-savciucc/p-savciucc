@@ -69,13 +69,6 @@ Ambitious **Software Engineering Student** with a strong background in developin
 
 ---
 
-## 📈 GitHub Stats
-
-![Constantin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p-savciucc&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-savciucc&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 - **Email:** [savciucc@icloud.com](mailto:savciucc@icloud.com)
 - **GitHub:** [github.com/p-savciucc](https://github.com/p-savciucc)
