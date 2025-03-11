@@ -1,6 +1,6 @@
 # Hi there, I'm **Constantin Savciuc**! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/savciucc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constantin-savciuc-93561b33b/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/p-savciucc)
 
 Ambitious **Software Engineering Student** with a strong background in developing **web and mobile applications** using **C#, Dart,** and **JavaScript**. Skilled in modern frameworks like **React** and **Flutter**, and comfortable working in **Linux** environments.
