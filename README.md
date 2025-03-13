@@ -70,7 +70,7 @@ Ambitious **Software Engineering Student** with a strong background in developin
 
 ## 🤝 Let's Connect
 - **Email:** [savciucc@icloud.com](mailto:savciucc@icloud.com)
-- **GitHub:** [github.com/p-savciucc](https://github.com/p-savciucc)
+- **GitHub:** [github.com/st-savciucc](https://github.com/st-savciucc)
 - **LinkedIn:** [linkedin.com/in/savciucc](https://www.linkedin.com/in/savciucc)
 - **Instagram:** [instagram.com/burla_costel](https://www.instagram.com/burla_costel)
 
