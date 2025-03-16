@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constantin-savciuc-93561b33b/)
 
-Ambitious **Software Engineering Student** with a strong background in developing **web and mobile applications** using **C#, Dart,** and **JavaScript**. Skilled in modern frameworks like **React** and **Flutter**, and comfortable working in **Linux** environments.
+Ambitious **Software Engineering Student** with a strong background in developing **web and mobile applications** using **C#, Dart,**. Skilled in modern frameworks like **React** and **Flutter**, and comfortable working in **Linux** environments.
 
 ---
 
@@ -19,11 +19,11 @@ Ambitious **Software Engineering Student** with a strong background in developin
 ## 🛠 Tech Stack & Skills
 
 **Programming Languages:**  
-- C# (Advanced)  
-- JavaScript (Advanced)  
-- Dart (Advanced)  
-- Node.js (Advanced)  
-- SQL (Advanced)  
+- C# (Intermediate)  
+- JavaScript (Intermediate)  
+- Dart (Intermediate)  
+- Node.js (Intermediate)  
+- SQL (Intermediate)  
 
 **Frameworks & Tools:**  
 - React, React Native, Flutter  
@@ -38,7 +38,7 @@ Ambitious **Software Engineering Student** with a strong background in developin
 ## 💼 Experience
 
 ### Frontend & Mobile Developer | PoligonTech (Remote) – Cluj, Romania (2022–2023)
-- Developed and optimized web and mobile apps using **Flutter (Dart)** and **React (JavaScript)**
+- Developed and optimized web and mobile apps using **Flutter (Dart)**
 - Collaborated in an **Agile** environment to enhance code quality, user experience, and performance
 - Emphasized high-quality, user-centric software solutions
 
