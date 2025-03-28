@@ -25,7 +25,7 @@ Ambitious **Software Engineering Student** with a strong background in developin
 
 **Frameworks & Tools:**  
 - React, React Native, Flutter  
-- Firebase (Advanced), RESTful APIs  
+- Firebase (Intermediate), RESTful APIs  
 - Git, Linux  
 
 **Soft Skills:**  
